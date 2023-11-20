@@ -43,6 +43,5 @@ B. Clear instructions for how to programmatically RECEIVE data from the microser
 
 
 C. UML sequence diagram showing how requesting and receiving data works:
-
-![updated UML](https://github.com/mcbrieri/361_Amazon_microservice/assets/108555262/c26017e8-aed9-46d8-91d6-1f5adbf5f0f7)
+![updated UML](https://github.com/mcbrieri/361_Amazon_microservice/assets/108555262/8f0ea6e7-50d1-45cc-9ec4-ed6640321f57)
 
